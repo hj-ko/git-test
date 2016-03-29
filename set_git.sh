@@ -1,2 +1,2 @@
 #!/bin/sh
-yum install git
+yum -y install git
